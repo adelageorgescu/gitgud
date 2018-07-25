@@ -22,6 +22,7 @@ namespace gitgud
         {
             button1.Text = "GitGudButton";
             button1.Text = "GitGudButton";
+			button1.Text = "GitGudButton";
         }
     }
 }
